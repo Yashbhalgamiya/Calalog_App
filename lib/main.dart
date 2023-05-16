@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(
         brightness: Brightness.light
       ),
+      initialRoute: MyRoutes.homeRoute,
       routes:{
         "/":(context)=>LoginPage(),
         MyRoutes.homeRoute:(context)=>HomePage(),//for defaul screen
