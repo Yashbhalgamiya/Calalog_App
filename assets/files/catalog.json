@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IQOO Z3",
+      "desc": "VIVO IQOO",
+      "price": "200",
+      "color": "#33505a",
+      "image": "https://images.fonearena.com/blog/wp-content/uploads/2021/03/iQOO-Z3.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "IPhone 13 Pro",
+      "desc": "Apple Iphone 13th gen",
+      "price": "999",
+      "color": "#00ac51",
+      "image": "https://th.bing.com/th/id/OIP.8Ap3aQkbtoihJPEbgNEaDwAAAA?pid=ImgDet&rs=1"
+    },
+
+    {
+      "id": 3,
+      "name": "Pixel 6",
+      "desc": "Google Pixel 6th gen",
+      "price": "699",
+      "color": "#33505a",
+      "image": "https://www.91-cdn.com/pricebaba-blogimages/wp-content/uploads/2021/05/Pixel-6-Pro.jpeg"
+    }
+  ]
+}
